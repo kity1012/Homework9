@@ -1,0 +1,1083 @@
+.mobile-view-child,
+.rectangle {
+  position: absolute;
+  left: 0;
+  width: 360px;
+}
+.mobile-view-child {
+  top: 5426px;
+  height: 261px;
+  overflow: hidden;
+}
+.rectangle {
+  top: 0;
+  background-color: #f4f6f9;
+  height: 525px;
+}
+.get-a-personalized {
+  position: absolute;
+  top: 150px;
+  left: 20px;
+  font-size: 30px;
+  letter-spacing: 0.03em;
+  line-height: 132%;
+  display: flex;
+  color: #333;
+  align-items: flex-end;
+  justify-content: center;
+  width: 320px;
+}
+.achieve-super-fan-status {
+  position: absolute;
+  top: 302px;
+  left: 20px;
+  line-height: 144%;
+  display: inline-block;
+  width: 320px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 993px;
+  left: 0;
+  width: 360px;
+  height: 388px;
+  object-fit: cover;
+}
+.rectangle1 {
+  position: absolute;
+  top: 1381px;
+  left: 0;
+  background: linear-gradient(-90deg, #fff, rgba(255, 255, 255, 0)),
+    rgba(255, 255, 255, 0.5);
+  width: 388px;
+  height: 360px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.rectangle2,
+.rectangle3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2.75px;
+  background-color: #e3e8ed;
+  width: 247.21px;
+  height: 149.58px;
+}
+.rectangle3 {
+  top: 115.93px;
+  height: 33.8px;
+  opacity: 0.6;
+}
+.b,
+.b1 {
+  position: absolute;
+  top: 127.59px;
+  left: 35.71px;
+  display: inline-block;
+  width: 21.29px;
+  height: 10.29px;
+}
+.b1 {
+  left: 192.96px;
+}
+.baseline-video-label-24px-icon {
+  position: absolute;
+  top: 126.22px;
+  left: 223.18px;
+  width: 13.73px;
+  height: 13.72px;
+}
+.baseline-pause-24px-icon {
+  position: absolute;
+  top: 124.84px;
+  left: 10.3px;
+  width: 16.48px;
+  height: 16.46px;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  top: 2.06px;
+  left: 0;
+  border-radius: 2.75px;
+  background-color: #e3e8ed;
+  width: 118.11px;
+  height: 2.74px;
+}
+.group-item {
+  width: 87.21px;
+}
+.ellipse,
+.rectangle-group {
+  position: absolute;
+  height: 6.86px;
+}
+.ellipse {
+  top: 0;
+  left: 83.09px;
+  border-radius: 50%;
+  background-color: #e3e8ed;
+  width: 6.87px;
+}
+.rectangle-group {
+  top: 129.65px;
+  left: 65.92px;
+  width: 118.11px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 128.27px;
+  left: 72.79px;
+  box-shadow: 3.361726760864258px -1.680863380432129px 5.88px #c6cfda inset,
+    -4.622374057769775px -13.446907043457031px 16.81px #fff inset,
+    -15.127769470214844px 16.388418197631836px 33.62px rgba(0, 0, 0, 0.5);
+  width: 247.21px;
+  height: 149.73px;
+}
+.rectangle-icon1,
+.rectangle4 {
+  position: absolute;
+  left: 0;
+  width: 247.21px;
+}
+.rectangle-icon1 {
+  top: 0;
+  border-radius: 2.75px;
+  height: 149.58px;
+  object-fit: cover;
+}
+.rectangle4 {
+  top: 115.93px;
+  border-radius: 0 0 2.75px 2.75px;
+  background-color: #000;
+  height: 33.8px;
+  opacity: 0.6;
+}
+.ellipse1,
+.group-inner,
+.rectangle-div {
+  position: absolute;
+  top: 2.06px;
+  left: 0;
+  border-radius: 71.99px;
+  background-color: #bdbdbd;
+  width: 118.11px;
+  height: 2.74px;
+}
+.ellipse1,
+.rectangle-div {
+  background-color: #00adee;
+  width: 87.21px;
+}
+.ellipse1 {
+  top: 0;
+  left: 83.09px;
+  border-radius: 50%;
+  background-color: #fff;
+  width: 6.87px;
+  height: 6.86px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 128.27px;
+  left: 72.79px;
+  width: 247.21px;
+  height: 149.73px;
+  color: #fff;
+}
+.rectangle5,
+.rectangle6 {
+  position: absolute;
+  left: 0;
+  width: 247.21px;
+}
+.rectangle5 {
+  top: 0;
+  border-radius: 2.75px;
+  background-color: #fff;
+  box-shadow: -15.127769470214844px 16.388418197631836px 33.62px
+    rgba(0, 0, 0, 0.5);
+  height: 149.58px;
+}
+.rectangle6 {
+  top: 115.78px;
+  border-radius: 0 0 2.75px 2.75px;
+  background-color: #eee;
+  height: 33.8px;
+}
+.sat-1235pm {
+  position: absolute;
+  top: 18.7px;
+  left: 10.81px;
+  line-height: 132%;
+  display: inline-block;
+  width: 68.47px;
+  height: 15.82px;
+}
+.arsenal-v {
+  margin: 0;
+}
+.arsenal-v-chelsea-container,
+.friendly-match,
+.turn-on-all {
+  position: absolute;
+  left: 10.81px;
+  line-height: 132%;
+  display: inline-block;
+}
+.arsenal-v-chelsea-container {
+  top: 43.15px;
+  font-size: 12.35px;
+  font-weight: 500;
+  color: #000;
+  width: 52.61px;
+  height: 34.52px;
+}
+.friendly-match,
+.turn-on-all {
+  height: 17.26px;
+}
+.friendly-match {
+  top: 87.01px;
+  font-size: 10.98px;
+  color: #000;
+  width: 85.05px;
+}
+.turn-on-all {
+  top: 125.13px;
+  font-size: 12.96px;
+  width: 172.25px;
+}
+.ellipse2,
+.group-child1 {
+  position: absolute;
+  top: 128.72px;
+  left: 210.45px;
+  border-radius: 71.99px;
+  background-color: #979797;
+  width: 18.74px;
+  height: 8.63px;
+}
+.ellipse2 {
+  top: 125.85px;
+  left: 206.13px;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 1.4398540258407593px 1.44px rgba(0, 0, 0, 0.25);
+  width: 14.41px;
+  height: 14.38px;
+}
+.arsenal-f-c-seeklogocom-icon,
+.chelsea-fc-icon {
+  position: absolute;
+  top: 31.58px;
+  left: 139.04px;
+  width: 48.88px;
+  height: 57.66px;
+}
+.chelsea-fc-icon {
+  top: 31.64px;
+  left: 179.46px;
+  width: 57.66px;
+  height: 57.53px;
+}
+.group-parent,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 247.21px;
+  height: 149.58px;
+  font-size: 11.52px;
+  color: #4f4f4f;
+}
+.group-parent {
+  top: 1063px;
+  left: 20px;
+  width: 320px;
+  height: 278px;
+  text-align: left;
+  font-size: 8.24px;
+  color: #e3e8ed;
+}
+.an-enhanced-football,
+.learn-more,
+.the-guardian-live-container,
+.what-it-does {
+  position: absolute;
+  top: 722px;
+  left: 20px;
+  line-height: 144%;
+  display: inline-block;
+  width: 320px;
+}
+.an-enhanced-football,
+.learn-more,
+.what-it-does {
+  top: 579px;
+  line-height: 132%;
+  color: #00adee;
+}
+.an-enhanced-football,
+.learn-more {
+  top: 949px;
+}
+.an-enhanced-football {
+  top: 628px;
+  font-size: 28px;
+  color: #333;
+}
+.get-started,
+.learn-more1,
+.the-in-game-goal-container,
+.user-friendly-interface {
+  position: absolute;
+  top: 1556px;
+  left: 20px;
+  line-height: 144%;
+  display: inline-block;
+  width: 320px;
+}
+.get-started,
+.learn-more1,
+.user-friendly-interface {
+  top: 1443px;
+  line-height: 132%;
+  color: #00adee;
+}
+.learn-more1,
+.user-friendly-interface {
+  top: 1789px;
+}
+.user-friendly-interface {
+  top: 1492px;
+  font-size: 28px;
+  color: #333;
+}
+.group-child2,
+.group-icon {
+  position: absolute;
+  top: 0;
+  left: -501px;
+  width: 360px;
+  height: 565px;
+}
+.group-child2 {
+  height: 86.52%;
+  width: 24.45%;
+  top: 16.55%;
+  right: 117.16%;
+  bottom: -3.07%;
+  left: -41.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #fff;
+  box-shadow: 0 1.9815274477005005px 4.95px rgba(51, 51, 51, 0.1),
+    0 2.4769091606140137px 12.38px rgba(0, 0, 0, 0.25);
+  width: 71.85px;
+  height: 71.81px;
+}
+.baseline-notifications-24px-icon {
+  position: absolute;
+  height: 93.97%;
+  width: 80.73%;
+  top: 5.68%;
+  right: 14.94%;
+  bottom: 0.35%;
+  left: 4.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.ellipse4 {
+  position: absolute;
+}
+.ellipse4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #00adee;
+  border: 1px solid #00adee;
+  box-sizing: border-box;
+}
+.div {
+  height: 53.85%;
+  width: 46.15%;
+  top: 23.08%;
+  left: 23.08%;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.ellipse-group {
+  position: absolute;
+  height: 46.43%;
+  width: 48.15%;
+  top: 0;
+  right: 0;
+  bottom: 53.57%;
+  left: 51.85%;
+}
+.baseline-notifications-24px-parent,
+.ellipse-parent {
+  position: absolute;
+  top: 18.32px;
+  left: 18.13px;
+  width: 37.16px;
+  height: 38.63px;
+}
+.ellipse-parent {
+  top: 112.05px;
+  left: -453.22px;
+  width: 71.85px;
+  height: 71.81px;
+}
+.baseline-shopping-cart-24px-icon {
+  position: absolute;
+  height: 85.71%;
+  width: 88.89%;
+  top: 14.29%;
+  right: 11.11%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #40b756;
+  border: 1px solid #3db657;
+  box-sizing: border-box;
+}
+.baseline-shopping-cart-24px-parent {
+  position: absolute;
+  top: 18.32px;
+  left: 17.34px;
+  width: 37.16px;
+  height: 38.63px;
+}
+.ellipse-container {
+  position: absolute;
+  top: 362.2px;
+  left: -252.67px;
+  width: 71.85px;
+  height: 71.81px;
+}
+.group-child3,
+.group-container {
+  position: absolute;
+  top: 394.11px;
+  left: -501px;
+  width: 12px;
+  height: 48.44px;
+}
+.group-container {
+  top: 1808px;
+  bottom: -600px;
+  left: 501px;
+  width: 1137px;
+  height: 565px;
+  transform: rotate(0deg);
+  transform-origin: 0 0;
+  text-align: right;
+  font-size: 11.89px;
+  color: #fff;
+  font-family: Montserrat;
+}
+
+.baseline-notifications-24px-parent,
+.ellipse-parent {
+  position: absolute;
+  top: 18.32px;
+  left: 18.13px;
+  width: 37.16px;
+  height: 38.63px;
+}
+.ellipse-parent {
+  top: 112.05px;
+  left: -453.22px;
+  width: 71.85px;
+  height: 71.81px;
+}
+
+.mobile-view-item {
+  position: absolute;
+  top: 2405px;
+  left: 0;
+  background-color: #fafafa;
+  width: 360px;
+  height: 1775px;
+}
+.video-highlights-for {
+  position: absolute;
+  top: 2624px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-ondemand-video-24px-icon {
+  position: absolute;
+  top: 2573px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.notifications-for-your {
+  position: absolute;
+  top: 2772px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-notifications-active-icon {
+  position: absolute;
+  top: 2721px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.brand-new-video {
+  position: absolute;
+  top: 2965px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-hd-24px-icon {
+  position: absolute;
+  top: 2914px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.match-pages-showing {
+  position: absolute;
+  top: 3158px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-flag-24px-icon {
+  position: absolute;
+  top: 3108px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.the-new-picture {
+  position: absolute;
+  top: 3351px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-style-24px-icon {
+  position: absolute;
+  top: 3301px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.live-updated-league {
+  position: absolute;
+  top: 3567px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-poll-24px-icon {
+  position: absolute;
+  top: 3517px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.the-guardian-news {
+  position: absolute;
+  top: 3732px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-add-to-home-screen-24-icon {
+  position: absolute;
+  top: 3686px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.match-reports-previews {
+  position: absolute;
+  top: 3898px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-people-24px-icon {
+  position: absolute;
+  top: 3852px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.and-you-can {
+  position: absolute;
+  top: 4041px;
+  left: 25px;
+  line-height: 144%;
+  display: inline-block;
+  width: 311px;
+}
+.baseline-tune-24px-icon {
+  position: absolute;
+  top: 3995px;
+  left: 160px;
+  width: 40px;
+  height: 40px;
+}
+.features-that-will {
+  position: absolute;
+  top: 2447px;
+  left: 21px;
+  font-size: 28px;
+  line-height: 132%;
+  display: inline-block;
+  color: #333;
+  width: 318px;
+}
+.mobile-view-inner {
+  position: absolute;
+  top: 4500px;
+  left: 121px;
+  width: 143px;
+  height: 11px;
+}
+.what-our-users {
+  position: absolute;
+  top: 4230px;
+  left: 54px;
+  font-size: 28px;
+  line-height: 132%;
+  color: #333;
+  text-align: left;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #828282;
+  box-sizing: border-box;
+  width: 309px;
+  height: 161px;
+}
+.darren-wilson,
+.good-for-scores {
+  position: absolute;
+  top: 20px;
+  left: 58px;
+}
+.good-for-scores {
+  top: 63px;
+  left: 17px;
+  font-size: 14px;
+  line-height: 132%;
+  color: #4f4f4f;
+  display: inline-block;
+  width: 279px;
+}
+.ellipse-icon,
+.twitter-icon {
+  position: absolute;
+  top: 24px;
+  left: 281px;
+  width: 15px;
+  height: 12px;
+}
+.ellipse-icon {
+  top: 15px;
+  left: 17px;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 4306px;
+  left: 26px;
+  width: 309px;
+  height: 161px;
+  text-align: left;
+  color: #333;
+}
+.mobile-view-child1 {
+  position: absolute;
+  top: 4358px;
+  left: 299px;
+  width: 61px;
+  height: 67px;
+}
+.mobile-view-child2 {
+  position: absolute;
+  top: 4582px;
+  left: 0;
+  background-color: #fafafa;
+  width: 360px;
+  height: 409px;
+}
+.we-have-been {
+  position: absolute;
+  top: 4639px;
+  left: 20px;
+  font-size: 28px;
+  line-height: 132%;
+  color: #333;
+}
+.sports-icon {
+  position: absolute;
+  top: 4728px;
+  left: 232px;
+  width: 102px;
+  height: 32px;
+}
+.button-icon,
+.nbc-sports-1-icon {
+  position: absolute;
+  top: 4788px;
+  left: 20px;
+  width: 69px;
+  height: 58px;
+}
+.button-icon {
+  top: 0;
+  left: 0;
+  border-radius: 6.86px;
+  width: 145.69px;
+  height: 44px;
+}
+.download-on,
+.play {
+  position: absolute;
+  top: 5.62px;
+  left: 47.15px;
+  display: flex;
+  align-items: flex-end;
+  width: 60.69px;
+  height: 12.17px;
+}
+.play {
+  top: 18.56px;
+  left: 99.87px;
+  font-size: 16.46px;
+  font-weight: 300;
+  width: 29.41px;
+  height: 19.94px;
+}
+.object-icon {
+  position: absolute;
+  top: 22px;
+  left: 47.15px;
+  width: 48.57px;
+  height: 16.5px;
+  object-fit: cover;
+}
+.path-icon {
+  position: absolute;
+  top: 8.25px;
+  left: 10.94px;
+  width: 14.83px;
+  height: 27.5px;
+}
+.path-icon1,
+.path-icon2 {
+  position: absolute;
+  top: 23.18px;
+  left: 15.17px;
+  width: 14.94px;
+  height: 11.86px;
+}
+.path-icon2 {
+  top: 18.51px;
+  left: 28.13px;
+  width: 7.44px;
+  height: 6.99px;
+}
+.google-play,
+.path-icon3 {
+  position: absolute;
+  top: 8.97px;
+  left: 15.18px;
+  width: 14.92px;
+  height: 11.85px;
+}
+.google-play {
+  top: 326px;
+  left: 174.31px;
+  width: 145.69px;
+  height: 44px;
+}
+.app-store,
+.download-on-the {
+  position: absolute;
+  top: 5.62px;
+  left: 46.68px;
+  display: flex;
+  align-items: flex-end;
+  width: 70.02px;
+  height: 11.23px;
+}
+.app-store {
+  top: 16.5px;
+  font-size: 19.89px;
+  font-weight: 500;
+  width: 87.55px;
+  height: 23.38px;
+}
+.logo-icon {
+  position: relative;
+  width: 23.43px;
+  height: 28.81px;
+}
+.apple-store {
+  position: absolute;
+  top: 326px;
+  left: 0;
+  width: 145.69px;
+  height: 44px;
+  font-size: 9.35px;
+}
+.get-up-close,
+.if-youre-interested {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 28px;
+  line-height: 132%;
+  display: inline-block;
+  font-family: Lato;
+  color: #333;
+  text-align: center;
+  width: 320px;
+}
+.if-youre-interested {
+  top: 89px;
+  font-size: 16px;
+  line-height: 156%;
+  color: #4f4f4f;
+  width: 309.03px;
+}
+.google-play-parent {
+  position: absolute;
+  top: 5010px;
+  left: 20px;
+  width: 320px;
+  height: 370px;
+  text-align: left;
+  font-size: 10.29px;
+  color: #fff;
+  font-family: Roboto;
+}
+.mobile-view-child3 {
+  position: absolute;
+  top: 5687px;
+  left: 0;
+  background-color: #00adee;
+  width: 360px;
+  height: 210px;
+}
+.developers,
+.download,
+.privacy,
+.support {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 132%;
+}
+.developers,
+.privacy,
+.support {
+  left: 93px;
+}
+.developers,
+.privacy {
+  left: 168px;
+}
+.privacy {
+  left: 268px;
+}
+.apple-store1,
+.download-parent,
+.google-play1 {
+  position: absolute;
+  top: 5830px;
+  left: 19px;
+  width: 321px;
+  height: 22px;
+  text-align: left;
+  color: #fff;
+}
+.apple-store1,
+.google-play1 {
+  top: 422px;
+  left: 194.31px;
+  width: 145.69px;
+  height: 44px;
+  font-size: 10.29px;
+  font-family: Roboto;
+}
+.apple-store1 {
+  left: 20px;
+  font-size: 9.35px;
+}
+.facebook-21-icon,
+.instagram-21-icon,
+.twitter-21-icon {
+  position: absolute;
+  height: 0.42%;
+  width: 6.94%;
+  top: 97.86%;
+  right: 87.22%;
+  bottom: 1.71%;
+  left: 5.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.facebook-21-icon,
+.instagram-21-icon {
+  right: 63.89%;
+  left: 29.17%;
+}
+.facebook-21-icon {
+  right: 75.56%;
+  left: 17.5%;
+}
+.football-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.sports {
+  position: absolute;
+  top: 2px;
+  left: 28px;
+  letter-spacing: -0.02em;
+}
+.group {
+  top: 32px;
+  left: 131px;
+  width: 99px;
+  text-align: left;
+  font-size: 24px;
+  color: #5282f0;
+  font-family: "Product Sans";
+}
+.group,
+.group1,
+.vector-icon {
+  position: absolute;
+  height: 32px;
+}
+.group1 {
+  top: 5728px;
+  left: 21px;
+  width: 99px;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Product Sans";
+}
+.vector-icon {
+  top: 8px;
+  left: 0;
+  width: 102px;
+}
+.tv {
+  position: absolute;
+  top: 0;
+  left: 104px;
+  line-height: 0%;
+}
+.group-wrapper,
+.group2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 147px;
+  height: 49px;
+}
+.group-wrapper {
+  top: 4719px;
+  left: 20px;
+  text-align: left;
+  font-size: 36px;
+  color: #000;
+  font-family: "Product Sans";
+}
+.sky-sports-1-icon {
+  position: absolute;
+  top: 4886px;
+  left: 75px;
+  width: 210px;
+  height: 34px;
+}
+.designer-technology-icon {
+  position: absolute;
+  top: 4801px;
+  left: 128px;
+  width: 110px;
+  height: 32px;
+}
+.designer-news-icon {
+  position: absolute;
+  top: 4793px;
+  left: 277px;
+  width: 48px;
+  height: 48px;
+}
+.mobile-view {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 5897px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 16px;
+  color: #4f4f4f;
+  font-family: Lato;
+}
